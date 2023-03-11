@@ -12,4 +12,6 @@ echo "Good Evening"
 echo "We are changing script1"
 echo "We have applied this changes in main branch"
 echo "Hello batch 16"
-
+echo "we are learning devops"
+echo "batch 16"
+echo "we are group 4"
